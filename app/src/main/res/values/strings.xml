@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="Todo">Todo</string>
+
+    <!-- Pending Tasks Strings -->
+    <string name="pending_tasks">Pending Tasks</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
+    <string name="task_3">Task 3</string>
+    <string name="task_4">Task 4</string>
+    <string name="task_5">Task 5</string>
+
+    <!-- Completed Tasks Strings -->
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="completed_task_1">Completed Task 1</string>
+    <string name="completed_task_2">Completed Task 2</string>
+    <string name="completed_task_3">Completed Task 3</string>
+</resources>
