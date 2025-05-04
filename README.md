@@ -63,5 +63,5 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FocusHubToDo.git
+   git clone https://github.com/CodeWithJanvi/To-Do-List-App-FocusHub.git
 
